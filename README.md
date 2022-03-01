@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bmpernot
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning software engineering at the university of suffolk
+- 📫 You to reach me on my email @ benjmain.pernot195@gmail.com
