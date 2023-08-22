@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ben Pernot
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning software engineering at the university of suffolk
-- 📫 You to reach me on my email @ benjmain.pernot195@gmail.com
+Hey everyone, welcome to my github page
+
+I am currently working at BT as a full stack javascript web developer.
+
+I use this site to store my personal project which i use to learn new languages and skills.
